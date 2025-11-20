@@ -21,3 +21,8 @@ p.info {
     font-weight: bold;
     border: 1px dotted black;
 }
+
+span
+{
+    font-weight: bold;
+}
